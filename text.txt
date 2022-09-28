@@ -1,0 +1,17 @@
+what is codd's rule ?
+which dbms follows max codd's rule ? 
+what is the version of oracle ?
+
+entity/relation/table
+attribute/coloumn/properties/field
+records/rows/tuples
+
+CONSTRAINTS
+priamry key = not null , unique.
+unique = unique
+not null = Blank
+check = condition
+foreign key = reference
+
+composite CONSTRAINTS cannot be applied on coloumn level.
+Not null CONSTRAINTS cannot be applied on table level.
